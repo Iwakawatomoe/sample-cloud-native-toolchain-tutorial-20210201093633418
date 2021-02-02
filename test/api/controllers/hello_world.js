@@ -1,3 +1,4 @@
+/*eslint-disable unknown-require */
 var should = require('should');
 var request = require('supertest');
 var server = require('../../../app');
